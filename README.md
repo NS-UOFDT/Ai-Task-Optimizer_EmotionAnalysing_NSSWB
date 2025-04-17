@@ -12,7 +12,6 @@ This project is a smart employee support system that detects user emotions using
 - Secure authentication system with user roles
 
 ### 📊 Dashboards
-- **Admin Dashboard**: View employees, emotion alerts, task logs
 - **Employee Dashboard**: See personalized task suggestions, mood history, task progress
 
 ### 🧠 Emotion Detection
@@ -20,8 +19,7 @@ This project is a smart employee support system that detects user emotions using
 - Integrates **pretrained models** for:
   - **Facial expression detection** (via webcam)
   - **Text emotion analysis**
-  - *(Optional)* Speech emotion recognition
-- Detects and tracks emotions **in real time**
+  - Detects and tracks emotions **in real time**
 
 ### 📋 Task Recommendation
 - Tasks are suggested dynamically based on current mood
@@ -74,26 +72,7 @@ This project is a smart employee support system that detects user emotions using
 
 ---
 
-## 🗂 Suggested Folder Structure
 
-```
-src/
-├── components/
-│   ├── Login.js
-│   ├── AdminDashboard.js
-│   ├── EmployeeDashboard.js
-│   └── EmotionDetector.js
-├── services/
-│   ├── firebase.js
-│   ├── taskService.js
-│   └── emotionService.js
-├── models/
-│   └── customEmotionModel/     # Your trained emotion model
-├── utils/
-│   └── emotionUtils.js
-├── App.js
-└── index.js
-```
 
 ---
 
@@ -111,4 +90,4 @@ motivated, discouraged, thoughtful, confused
 ## 📬 Contact
 
 For questions or collaboration:  
-📧 your-email@example.com
+📧 nethrankumaraswamy@gmail.com
